@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.06606add.css",
+    "main.css": "/static/css/main.559737bb.css",
     "main.js": "/static/js/main.214d2058.js",
+    "static/media/AkrobatSemiBold.woff": "/static/media/AkrobatSemiBold.4c3851c443b3d33e926b.woff",
     "index.html": "/index.html",
-    "main.06606add.css.map": "/static/css/main.06606add.css.map",
+    "main.559737bb.css.map": "/static/css/main.559737bb.css.map",
     "main.214d2058.js.map": "/static/js/main.214d2058.js.map"
   },
   "entrypoints": [
-    "static/css/main.06606add.css",
+    "static/css/main.559737bb.css",
     "static/js/main.214d2058.js"
   ]
 }
