@@ -1,1 +1,0 @@
-import{a as e}from"./react-vendor-670efa73.js";function r(){return this}function t(t){let n=0;return{next(){if(++n>50)throw new Error("useMultipleRefs: reached more than 50 refs. This hook can be used exclusively with the array destructuring syntax.");return{done:!1,value:e.useRef(t)}},[Symbol.iterator]:r}}export{t as u};
